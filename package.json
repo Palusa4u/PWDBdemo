@@ -1,0 +1,25 @@
+{
+  "name": "pwdemos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0",
+    "@types/oracledb": "^6.10.0",
+    "@types/pg": "^8.15.6"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "node-oracledb": "^1.0.2",
+    "oracledb": "^6.10.0",
+    "pg": "^8.16.3"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
